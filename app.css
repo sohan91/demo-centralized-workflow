@@ -4,6 +4,8 @@
 .heading
 {
     background-color: #0f7afc;
+    display: inline;
+    flex-direction: row;
 }
 body{
     background-color: #4d71e8;
