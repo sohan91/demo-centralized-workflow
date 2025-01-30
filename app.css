@@ -6,12 +6,23 @@ body {
 body.light-theme {
     background-color: white;
     color: black;
+    
 }
 
 body.dark-theme {
     background-color: black;
     color: rgb(228, 218, 218);
 }
+#themeToggleButton
+{
+    border-radius: 7px;
+    width: 60px;
+    background-color: #816464;
+    height: 30px;
+    margin-top: 40px;
+    margin-left: 10px;
+ }
+
 
 body label
 {
